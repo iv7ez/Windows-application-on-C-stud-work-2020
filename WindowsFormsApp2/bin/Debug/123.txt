@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<ArrayOfFlightObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FlightObject>
+    <city>Иркутск/Irkutsk</city>
+    <model>Boejing</model>
+    <number>1</number>
+    <price>10000</price>
+    <spaces>100</spaces>
+    <arrive>11:58</arrive>
+    <takeoff>14:34</takeoff>
+  </FlightObject>
+  <FlightObject>
+    <city>Санкт-Петербург/St.Petersburg</city>
+    <model>Boejing</model>
+    <number>2</number>
+    <price>123456</price>
+    <spaces>42</spaces>
+    <arrive>0:12</arrive>
+    <takeoff>0:42</takeoff>
+  </FlightObject>
+  <FlightObject>
+    <city>Новосибирск/Novosibirsk</city>
+    <model>Boejing</model>
+    <number>3</number>
+    <price>420322</price>
+    <spaces>10</spaces>
+    <arrive>5:00</arrive>
+    <takeoff>10:00</takeoff>
+  </FlightObject>
+</ArrayOfFlightObject>
